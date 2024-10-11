@@ -17,11 +17,3 @@ tools:
         org: Ajay-Chidambaram
         name: port-idp-templates
         scmType: github
-      # vars:
-      #   ImageRepoUser: [[env DOCKERHUB_USER]]
-      #   ImageRepo: [[env IMAGE_REPO]]
-      #   Host: [[env HOST]]
-      #   DbVersion: [[env DB_VERSION]]
-      #   DbSize: [[env DB_SIZE]]
-      #   GitHubOrg: [[env GITHUB_ORG]]
-      #   GitHubUser: [[env GITHUB_USER]]
